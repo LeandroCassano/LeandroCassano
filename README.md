@@ -1,8 +1,5 @@
 ## Hi, I'm Leandro Cassano 👋
 
-![Cybersecurity Banner](https://i.ibb.co/gz75TJY/cybersegurity-lc.jpg)
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">&nbsp;***About me***
 
 I am a computer security technician, recently graduated and constantly learning. I specialize in platforms like Linux and servers, 
