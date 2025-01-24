@@ -2,10 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">&nbsp;***About me***
 
-I am a computer security technician, recently graduated and constantly learning. I specialize in platforms like Linux and servers, 
-SQL database management, pentesting, and networking knowledge.I am passionate about exploring new tools, solving problems,
- and building secure, innovative, and functional solutions.
- 
+I am a computer security technician, recently graduated and constantly learning. I specialize in platforms such as Linux and servers, SQL database management, pentesting, and networking knowledge.I am passionate about exploring new tools, solving problems, and building secure, innovative, and functional solutions
+
 💬 I focus on implementing and securing various operating systems and networks.
   This process involves phases of vulnerability assessment 👀 
   and exploitation testing 💪
